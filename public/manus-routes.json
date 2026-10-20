@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "path": "/", "title": "Bharosa Bond — Family decision support" },
+    { "path": "/admin", "title": "Bharosa Bond — Admin dashboard" }
+  ]
+}
